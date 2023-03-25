@@ -1,0 +1,33 @@
+{
+  "name": "netlify-sample-node-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API to deploy on Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vSanjeev/netlify-sample-node-api.git"
+  },
+  "keywords": [
+    "netlify",
+    "sample",
+    "api",
+    "sample",
+    "node",
+    "api",
+    "node",
+    "api"
+  ],
+  "author": "Sanjeev Venkatesan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vSanjeev/netlify-sample-node-api/issues"
+  },
+  "homepage": "https://github.com/vSanjeev/netlify-sample-node-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
